@@ -1,0 +1,70 @@
+[
+  {
+    "path": "posts/covid19/",
+    "title": "Dialysis Facilities",
+    "description": "Welcome to explore the data analysis of Dialysis Facilities registered with Medicare. Hope you enjoy this blog!",
+    "author": [
+      {
+        "name": "Nirosha Rathnayake",
+        "url": "https://niroshar.github.io/My-Profile/"
+      }
+    ],
+    "date": "2021-01-16",
+    "categories": [],
+    "contents": "\r\nGo back to home page!\r\nThis data set was downloaded from the Centers for Medicare & Medicaid Services click here! website, which includes the list of all dialysis facilities registered with Medicare. The main goal of this article is to explore this data set and study the quality of care based on the service provided.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-01-16T12:33:52-06:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/HDdata/",
+    "title": "How to Analyze High-Dimensional Data",
+    "description": "Approach to analyze high dimensional data. Hope you enjoy this blog!",
+    "author": [
+      {
+        "name": "Nirosha Rathnayake",
+        "url": "https://niroshar.github.io/My-Profile/"
+      }
+    ],
+    "date": "2017-11-16",
+    "categories": [],
+    "contents": "\r\nHow to analyze high dimensional data\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-01-16T18:44:57-06:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/huskers/",
+    "title": "Nebraska Corn Huskers - 2018",
+    "description": "Huskers Compared to Top 25 Ranked Teams in NCAA Football 2018",
+    "author": [
+      {
+        "name": "Nirosha Rathnayake",
+        "url": "https://niroshar.github.io/My-Profile/"
+      }
+    ],
+    "date": "2017-11-16",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n\r\n\r\nContact us to try our tool!\r\n\r\nCheck out the dashboard!\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/huskers/huskers.PNG",
+    "last_modified": "2021-01-16T18:44:43-06:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/cancerproject/",
+    "title": "Invariant Characteristics of Carcinogenesis",
+    "description": {},
+    "author": [
+      {
+        "name": "Nirosha Rathnayake",
+        "url": "https://niroshar.github.io/My-Profile/"
+      }
+    ],
+    "date": "2015-10-15",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\nLink to article\r\n\r\n\r\n\r\n",
+    "preview": "posts/cancerproject/plos1.PNG",
+    "last_modified": "2021-01-16T18:44:29-06:00",
+    "input_file": {}
+  }
+]

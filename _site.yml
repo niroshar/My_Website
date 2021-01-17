@@ -2,7 +2,7 @@ name: "My Personal Website"
 title: "Me & Data"
 description: |
   Dialysis Facilities
-output_dir: "_site"
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"

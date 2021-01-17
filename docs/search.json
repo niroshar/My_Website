@@ -1,0 +1,26 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "~ ~ About Me ~ ~",
+      "author": [],
+      "contents": "\r\nEducation\r\nPhD in Biostatistics, University of Nebraska Medical Center UNMC,Omaha, NE, USA.\r\nMA in Mathematics, University of Nebraska at Omaha UNO, Omaha, NE, USA.\r\nBSc in Production Engineering Specialized in Mathematics, University of Peradeniya, Peradeniya, Sri Lanka.\r\nLinks  - My GitHub page!  - My Tableau Page!  - Me in LinkedIn!\r\n\r\nComputer Skills:\r\nR/RStudio, Python/Jupyter, SAS/SAS SQL, MATLAB, BayesiaLab, SPSS, SQL, Tableau, Latex, Git, GitHub.\r\nOlder version\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-01-16T21:22:03-06:00"
+    },
+    {
+      "path": "articles.html",
+      "title": "Me & Data",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-01-16T21:22:03-06:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Welcome to my website!!!",
+      "author": [],
+      "contents": "\r\nA multidisciplinary research professional scientist, with a Ph.D. in Biostatistics, a Master of Arts (MA) in Mathematics, proficient in Statistical/Biostatistical methods, and machine learning modeling approaches using Python, R/RStudio, MATLAB, BayesiaLab, SAS, and SPSS. Experience in database management systems (Teradata, Oracle) and data visualization (SQL, RShiny, Tableau, PowerBI), integration on Git/GitHub.\r\n\r\n\r\n\r\nHighly motivated and enthusiastic to explore and build statistical and machine learning models with messy data, big data, and high dimensional data as well as to enhance my knowledge with new technology skills.\r\nNirosha Rathnayake, Ph.D., Data Scientist (Sr. Analyst), First National Bank of Omaha.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-01-16T21:22:04-06:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
