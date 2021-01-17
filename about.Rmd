@@ -12,6 +12,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - _MA in Mathematics_, University of Nebraska at Omaha [UNO](https://www.unomaha.edu/), Omaha, NE, USA.
 - _BSc in Production Engineering Specialized in Mathematics_, [University of Peradeniya](https://www.pdn.ac.lk/engineering/general.php), Peradeniya, Sri Lanka.
 
+
 <br>
 **Links**
 <br>
