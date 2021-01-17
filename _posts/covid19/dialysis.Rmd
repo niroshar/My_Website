@@ -1,0 +1,32 @@
+---
+title: "Dialysis Facilities"
+description: |
+  Welcome to explore the data analysis of Dialysis Facilities registered with Medicare. Hope you enjoy this blog! 
+author:
+  - name: Nirosha Rathnayake 
+    url: https://niroshar.github.io/My-Profile/
+date: 01-16-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+[Go back to home page!](index.html)
+
+
+This data set was downloaded from the Centers for Medicare & Medicaid Services [click here!](https://www.cms.gov/) website, which includes the list of all dialysis facilities registered with Medicare. The main goal of this article is to explore this data set and study the quality of care based on the service provided. 
+
+```{r dataread}
+
+
+```
+
+

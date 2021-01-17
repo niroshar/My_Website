@@ -1,0 +1,25 @@
+---
+title: "Welcome to my website!!!"
+site: distill::distill_website
+# listing: posts
+---
+
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+A multidisciplinary research professional scientist, with a _Ph.D. in Biostatistics_, a Master of Arts (MA) in Mathematics, proficient in Statistical/Biostatistical methods, and machine learning modeling approaches using _Python, R/RStudio, MATLAB, BayesiaLab, SAS, and SPSS_. Experience in database management systems _(Teradata, Oracle)_ and data visualization _(SQL, RShiny, Tableau, PowerBI)_, integration on _Git/GitHub._ 
+
+
+```{r out.width = "100%", fig.align='center'}
+knitr::include_graphics("homepg.PNG")
+```
+
+
+Highly motivated and enthusiastic to explore and build statistical and machine learning models with  messy data, big data, and high dimensional data as well as to enhance my knowledge with new technology skills. 
+
+**_Nirosha Rathnayake, Ph.D._**, Data Scientist (Sr. Analyst), First National Bank of Omaha.

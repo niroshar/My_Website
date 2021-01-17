@@ -1,0 +1,31 @@
+---
+title: "~ ~ About Me ~ ~"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## **Education**
+- _PhD in Biostatistics_, University of Nebraska Medical Center [UNMC](https://www.unmc.edu/),Omaha, NE, USA.
+- _MA in Mathematics_, University of Nebraska at Omaha [UNO](https://www.unomaha.edu/), Omaha, NE, USA.
+- _BSc in Production Engineering Specialized in Mathematics_, [University of Peradeniya](https://www.pdn.ac.lk/engineering/general.php), Peradeniya, Sri Lanka.
+
+<br>
+**Links**
+<br>
+- [My GitHub page!](https://github.com/niroshar)
+<br>
+- [My Tableau Page!](https://public.tableau.com/profile/nirosha.p.rathnayake#!/)
+<br>
+- [Me in LinkedIn!](https://www.linkedin.com/in/nirosha-rathnayake-phd-89501385/)
+
+<br>
+
+## **Computer Skills:**
+<br>
+**R/RStudio, Python/Jupyter, SAS/SAS SQL, MATLAB, BayesiaLab, SPSS, SQL, Tableau, Latex, Git, GitHub.**
+
+<br>
+[Older version](https://niroshar.github.io/My-Profile/)
